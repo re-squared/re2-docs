@@ -39,7 +39,7 @@ Delegators provide additional capital to validators, increasing their effective 
 
 ### For Validators
 
-* [Validator Setup Guide](guides/platform-guides/validator-setup.md)
+* [Validator Setup Guide](guides/validator-setup.md)
 
 ### For AVSs
 
