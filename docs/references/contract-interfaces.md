@@ -4,7 +4,7 @@
 
 ```solidity
 enum SlashType {
-</strong>    SOFT,
+    SOFT,
     HARD
 }
 
